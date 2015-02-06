@@ -1,3 +1,11 @@
 .gitk*
 .idea/*
+<<<<<<< HEAD
 .DS_Store
+=======
+*.orig
+.project
+.DS_Store
+.settings/
+.idea
+>>>>>>> gh-pages-X
